@@ -14,6 +14,7 @@ Feature: Admin controller
     And Select the admin query already exist FK22
     Then Verify it FK22
 
+
   @US_22_TC_01_e2e
   Scenario: TC_01 User can add admin successfully
     Given User goes to the "https://managementonschools.com/" FK_22
