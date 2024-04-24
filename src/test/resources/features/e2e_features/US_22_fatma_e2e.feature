@@ -15,6 +15,7 @@ Feature: Admin controller
     Then Verify it FK22
 
 
+
   @US_22_TC_01_e2e
   Scenario: TC_01 User can add admin successfully
     Given User goes to the "https://managementonschools.com/" FK_22
